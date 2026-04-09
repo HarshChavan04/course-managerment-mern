@@ -1,3 +1,5 @@
+
+![image alt](https://github.com/HarshChavan04/course-managerment-mern/blob/bbe9837b75148d520874506a5104a292c23fcce6/Screenshot%202026-04-09%20151730.png)
 <<<<<<< HEAD
 # React + Vite
 
@@ -19,4 +21,3 @@ If you are developing a production application, we recommend using TypeScript wi
 # Coure-Manager-System
 A Full Stack MERN Course Management Application with CRUD Operations, search functionality, and responsive UI using React, Express, MongoDB and Bootstrap.
 >>>>>>> f09f546d620721cffed23b6869bf1e9803645ebf
-![image alt](https://github.com/HarshChavan04/course-managerment-mern/blob/bbe9837b75148d520874506a5104a292c23fcce6/Screenshot%202026-04-09%20151730.png)
