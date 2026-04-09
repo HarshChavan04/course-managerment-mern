@@ -117,7 +117,7 @@ npm run dev
 ## 📸 Screenshot
 
 <p align="center">
-  <img src="./screenshotnew.png" width="800"/>
+  <img src="./Screenshot 2026-04-09 151730.png" width="800"/>
 </p>
 
 ---
