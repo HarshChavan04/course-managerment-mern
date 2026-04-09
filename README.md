@@ -123,4 +123,3 @@ npm run dev
 ---
 # Coure-Manager-System
 A Full Stack MERN Course Management Application with CRUD Operations, search functionality, and responsive UI using React, Express, MongoDB and Bootstrap.
->>>>>>> f09f546d620721cffed23b6869bf1e9803645ebf
